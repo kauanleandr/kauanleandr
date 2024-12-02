@@ -1,4 +1,4 @@
-## Hi My Name Is Kauan :)
+## Hi My Name Kauan ㋡
 
 <!--
 **kauanleandr/kauanleandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
