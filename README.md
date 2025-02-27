@@ -23,6 +23,6 @@ Tenho 21 anos e sou estudante do curso de Ciência da Computação, atualmente n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="github logo"  />
-</div>
 
-<img align="right" height="171" src="https://i.gifer.com/1kLR.gif"  />
+  <img align="right" height="171" src="https://i.gifer.com/1kLR.gif"  />
+</div>
