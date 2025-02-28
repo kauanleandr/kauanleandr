@@ -1,6 +1,6 @@
-# Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, eu sou o <a href="https://github.com/kauanleandr" target="_blank">Kauan Leandro!</a>
-Tenho 21 anos e sou estudante do curso de Ciência da Computação, atualmente no 7º semestre. Minha paixão por tecnologia é o que me motiva a estudar e me aprimorar todos os dias.💡 Meu foco está em aprender novas tecnologias e ferramentas que me ajudem a criar soluções inovadoras e práticas.
-<h2 align="left">Minhas Habilidades</h2>
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I am <a href="https://github.com/kauanleandr" target="_blank">Kauan Leandro!</a>
+I am 21 years old and I am a Computer Science student, currently in the 7th semester. My passion for technology is what motivates me to study and improve myself every day.💡 My focus is on learning new technologies and tools that help me create innovative and practical solutions.
+<h2 align="left">My Skills</h2>
 
 ###
 
