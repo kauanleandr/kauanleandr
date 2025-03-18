@@ -23,5 +23,5 @@ I am 21 years old and I am a Computer Science student, currently in the 7th seme
   <img width="29" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="github logo"  />
 
-  <img align="right" height="171" src="https://i.gifer.com/XOsa.gif"  />
+  <img align="right" height="171" src="https://i.pinimg.com/originals/90/1e/cd/901ecddee7482c60876542ba65563d03.gif"  />
 </div>
