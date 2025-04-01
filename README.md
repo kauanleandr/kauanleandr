@@ -4,24 +4,8 @@ I am 21 years old and I am a Computer Science student, currently in the 7th seme
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
-  <img width="29" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" height="34" alt="vue logo"  />
-  <img width="29" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Quasar.png" height="34" alt="quasar logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
-  <img width="29" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="github logo"  />
-
-  <img align="right" height="171" src="https://i.pinimg.com/originals/90/1e/cd/901ecddee7482c60876542ba65563d03.gif"  />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,mysql,python,vue,quasar,flutter,react,git,gitlab,vscode,idea,linux,windows"/>
+  </a>
+</p>
