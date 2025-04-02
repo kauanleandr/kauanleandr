@@ -6,6 +6,6 @@ I am 21 years old and I am a Computer Science student, currently in the 7th seme
 
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,mysql,python,vue,quasar,flutter,react,git,gitlab,vscode,idea,linux,windows"/>
+     <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,mysql,python,vue,flutter,react,git,gitlab,vscode,idea,linux,windows"/>
   </a>
 </p>
