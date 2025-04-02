@@ -10,4 +10,4 @@ I am 21 years old and I am a Computer Science student, currently in the 7th seme
   </a>
 </p>
 
-<img align="right" alt="GIF" width="320" height="320"  src="" />
+<img align="right" alt="" width="320" height="320"  src="" />
