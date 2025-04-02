@@ -9,3 +9,5 @@ I am 21 years old and I am a Computer Science student, currently in the 7th seme
      <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,mysql,python,vue,flutter,react,git,gitlab,vscode,idea,linux,windows"/>
   </a>
 </p>
+
+<img align="right" alt="GIF" width="320" height="320"  src="" />
